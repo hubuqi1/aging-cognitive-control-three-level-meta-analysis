@@ -1,0 +1,6 @@
+﻿Author,Year,sID,eID,y,v,RT,ACC,ER,c1,c2,t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11,i1,i2,wr,age,rob_patient_selection,rob_index_test,rob_reference_standard,rob_flow_timing,comp1,comp2
+Hsieh et al.,2012,40,73,-0.6028461323713207,0.12445541408551719,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0.46875,64.19,Low Risk,Low Risk,Low Risk,Low Risk,0,1
+Kousaie et al.,2014,50,94,0.5552664704392187,0.05882657867073758,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,,72.26,Low Risk,Low Risk,Low Risk,Low Risk,1,0
+Kousaie et al.,2014,50,95,0.2146510034262552,0.06533026787941908,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,,72.6,Low Risk,Low Risk,Low Risk,Low Risk,1,0
+Truong et al.,2021,79,150,0.4927536231884058,0.07428958510664034,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0.7037037037037037,71.21,Low Risk,Low Risk,Low Risk,Low Risk,1,0
+Truong et al.,2021,79,152,0.2389964929531962,0.07528104454344683,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0.8076923076923077,74.04,Low Risk,Low Risk,Low Risk,Low Risk,1,0
